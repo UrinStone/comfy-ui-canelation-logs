@@ -1,0 +1,28 @@
+got prompt
+Requested to load ZImageTEModel_
+loaded completely; 9545.67 MB usable, 7672.25 MB loaded, full load: True
+Requested to load Lumina2
+loaded partially; 9193.58 MB usable, 8967.35 MB loaded, 2772.19 MB offloaded, 225.00 MB buffer reserved, lowvram patches: 0
+100%|███████████████████████████████████████████████████████████████| 25/25 [02:07<00:00, 5.10s/it]
+Requested to load AutoencodingEngine
+Unloaded partially: 5048.60 MB freed, 3918.75 MB remains loaded, 225.00 MB buffer reserved, lowvram patches: 0
+loaded completely; 885.21 MB usable, 159.87 MB loaded, full load: True
+Prompt executed in 146.13 seconds
+got prompt
+Requested to load ZImageTEModel_
+Unloaded partially: 3075.00 MB freed, 843.75 MB remains loaded, 253.12 MB buffer reserved, lowvram patches: 0
+loaded completely; 8542.05 MB usable, 7672.25 MB loaded, full load: True
+loaded partially; 9193.58 MB usable, 8967.35 MB loaded, 2772.19 MB offloaded, 225.00 MB buffer reserved, lowvram patches: 0
+4%|██▌ | 1/25 [00:06<02:30, 6.28s/it]Interrupting prompt 8ce40e09-8888-4ad7-a570-2c28506c2241
+Interrupting prompt 8ce40e09-8888-4ad7-a570-2c28506c2241
+4%|██▌ | 1/25 [00:08<03:19, 8.33s/it]
+Processing interrupted
+Prompt executed in 15.57 seconds
+got prompt
+0 models unloaded.
+Unloaded partially: 848.60 MB freed, 8118.75 MB remains loaded, 225.00 MB buffer reserved, lowvram patches: 0
+100%|███████████████████████████████████████████████████████████████| 25/25 [01:07<00:00, 2.70s/it]
+Requested to load AutoencodingEngine
+Unloaded partially: 4200.00 MB freed, 3918.75 MB remains loaded, 225.00 MB buffer reserved, lowvram patches: 0
+loaded completely; 885.21 MB usable, 159.87 MB loaded, full load: True
+Prompt executed in 69.26 seconds
