@@ -1,0 +1,55 @@
+got prompt
+
+Requested to load Lumina2
+
+loaded partially; 9193.58 MB usable, 8967.35 MB loaded, 2772.19 MB offloaded, 225.00 MB buffer reserved, lowvram patches: 0
+
+92%|█████████████████████████████████████████████████████████▉ | 23/25 [02:11<00:09, 4.54s/it]Interrupting prompt d9d2c599-74f5-44db-92d5-a2ddcb364593
+
+96%|████████████████████████████████████████████████████████████▍ | 24/25 [02:18<00:05, 5.79s/it]
+
+Processing interrupted
+
+Prompt executed in 153.15 seconds
+
+got prompt
+
+Requested to load Lumina2
+
+loaded partially; 9193.58 MB usable, 8967.35 MB loaded, 2772.19 MB offloaded, 225.00 MB buffer reserved, lowvram patches: 0
+
+92%|█████████████████████████████████████████████████████████▉ | 23/25 [02:02<00:08, 4.17s/it]Interrupting prompt ca69132a-72ed-4d0b-962f-e6b797ed127c
+
+96%|████████████████████████████████████████████████████████████▍ | 24/25 [02:10<00:05, 5.42s/it]
+
+Processing interrupted
+
+Prompt executed in 132.72 seconds
+
+got prompt
+
+loaded partially; 9193.58 MB usable, 8967.35 MB loaded, 2772.19 MB offloaded, 225.00 MB buffer reserved, lowvram patches: 0
+
+0%| | 0/25 [00:00<?, ?it/s]Interrupting prompt fb048f91-27a7-4163-87de-5bfa4bd486a4
+
+0%| | 0/25 [00:01<?, ?it/s]
+
+Processing interrupted
+
+Prompt executed in 6.53 seconds
+
+got prompt
+
+0 models unloaded.
+
+Unloaded partially: 848.60 MB freed, 8118.75 MB remains loaded, 225.00 MB buffer reserved, lowvram patches: 0
+
+100%|███████████████████████████████████████████████████████████████| 25/25 [01:08<00:00, 2.73s/it]
+
+Requested to load AutoencodingEngine
+
+Unloaded partially: 4500.00 MB freed, 3618.75 MB remains loaded, 225.00 MB buffer reserved, lowvram patches: 0
+
+loaded completely; 1185.21 MB usable, 159.87 MB loaded, full load: True
+
+Prompt executed in 69.98 seconds
